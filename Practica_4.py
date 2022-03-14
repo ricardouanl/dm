@@ -21,7 +21,7 @@ df_lines.plot.line(
 	ylim=(0,20),
 	xticks=list(range(1,23)),
 	yticks=list(range(1,21))
-).get_figure().savefig("Practica_3_lines.png")
+).get_figure().savefig("Practica_4_lines.png")
 
 df_barh = pd.DataFrame({ 'Drivers': df['Driver'], 'Mean': df['mean'] })
-df_barh.plot.barh(x='Drivers', y='Mean', figsize=(14,6)).get_figure().savefig("Practica_3_barh.png")
+df_barh.plot.barh(x='Drivers', y='Mean', figsize=(14,6)).get_figure().savefig("Practica_4_barh.png")
