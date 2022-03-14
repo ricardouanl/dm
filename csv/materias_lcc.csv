@@ -1,0 +1,107 @@
+,Créditos,Horas/semana,Requsitos
+Metodología de la Programación,4,5,
+Física Básica,4,5,
+Geometría Analítica,4,5,
+Álgebra,4,5,
+Cálculo Diferencial,4,5,
+,,,
+Cálculo Integral,4,5,Geometría AnalíticaÁlgebraCálculo Diferencial
+Matemáticas Discretas,4,5,ÁlgebraCálculo Diferencial
+Programación Estructurada,4,5,Metodología de la Programación
+Física,4,5,
+Tópicos de Álgebra,4,5,Álgebra
+Laboratorio de Programación Estructurada,2,2,Metodología de la Programación
+Laboratorio de Física,2,2,Física Básica
+,,,
+Programación Orientada a Objetos,3,3,Programación EstructuradaLaboratorio de Programación Estructurada
+Circuitos Digitales,3,3,FísicaLaboratorio de Física
+Álgebra Lineal,4,5,Tópicos de Álgebra
+Tecnologías Multimedia,3,3,
+Cálculo de Varías Variables,4,5,Cálculo IntegralTópicos de Álgebra
+Estructura de Datos,4,5,Programación EstructuradaLaboratorio de Programación Estructurada
+Laboratorio de Programación Orientada a Objetos,2,2,Programación EstructuradaLaboratorio de Programación Estructurada
+Laboratorio de Circuitos Digitales,2,2,FísicaLaboratorio de Física
+,,,
+Aplicaciones Móviles,3,3,Programación Orientada a ObjetosLaboratorio de Programación Orientada a Objetos
+Base de Datos,3,3,Estructura de Datos
+Teoría de Autómatas,4,5,Estructura de Datos
+Ecuaciones Diferenciales,4,5,Álgebra LinealCálculo de Varías Variables
+Probabilidad,4,5,Cálculo de Varías Variables
+Cultura de Paz,2,2,
+Laboratorio de Aplicaciones Móviles,2,2,Programación Orientada a ObjetosLaboratorio de Programación Orientada a Objetos
+Laboratorio de Base de Datos,2,2,Estructura de Datos
+,,,
+Análisis Numéricos,3,3,Ecuaciones Diferenciales
+Sistemas Electrónicos,3,3,Circuitos DigitalesLaboratorio de Circuitos Digitales
+Organización y Arquitectura de Computadoras,4,5,
+Lenguajes Modernos de Programación,3,3,Aplicaciones MóvilesLaboratorio de Aplicaciones Móviles
+Estadística,4,5,Probabilidad
+Programación Lineal,4,5,Álgebra LinealCálculo de Varías Variables
+Responsabilidad Social y Desarrollo Sustentable,2,2,
+Laboratorio de Sistemas Electrónicos,2,2,Circuitos DigitalesLaboratorio de Circuitos Digitales
+,,,
+Microprocesadores,3,3,Sistemas ElectrónicosLaboratorio de Sistemas Electrónicos
+Redes de Computadoras,3,3,
+"Liderazgo, Emprendimiento e Innovación",2,2,
+Inteligencia Artificial,4,5,Probabilidad
+Laboratorio de Microprocesadores,2,2,Sistemas ElectrónicosLaboratorio de Sistemas Electrónicos
+Laboratorio de Redes de Computadoras,2,2,
+Investigación de Operaciones,4,5,ProbabilidadProgramación Lineal
+Optativa I Área Curricular de Formación Profesional Fundamental,,,
+Optativa II Área Curricular de Formación Profesional Fundamental,,,
+,,,
+Sistemas Operativos,3,3,MicroprocesadoresLaboratorio de Microprocesadores
+Administración,3,3,
+Análisis de Sistemas,3,3,
+Criptografía y Seguridad,3,3,
+Ética y Cultura de la Legalidad,2,,
+Optativa III Área Curricular de Formación Profesional Fundamental,,,
+Optativa IV Área Curricular de Formación Profesional Fundamental,,,
+,,,
+Seminario de Computación,3,3,
+Comportamiento Organizacional,3,3,Administración
+Optativa V Área Curricular de Formación Profesional Fundamental,,,
+Optativa VI Área Curricular de Formación Profesional Fundamental,,,
+,,,
+Administración de Proyectos de Software,3,3,Análisis de Sistemas
+Servicio Social,16,20,
+Seminario de Egreso,1,1,
+Seminario para el Desempeño Profesional,1,1,
+Seminario para el Desempeño Profesional,1,1,
+Optativa VII Área Curricular de Formación Profesional Fundamental,,,
+,,,
+Introducción a las Telecomunicaciones,3,3,
+Tópicos de Tecnologías,3,3,
+Lenguaje Ensamblador,3,3,
+Fundamentos de Networking,3,3,
+Videojuegos,3,3,
+Compiladores,3,3,
+Sistemas Embebidos,3,3,
+Sistema Administrador de Base de Datos,3,3,
+Desarrollo Web: Back-End,3,3,
+,,,
+Simulación,3,3,Investigación de OperacionesEstadística
+Contabilidad,3,3,
+Redes Inalámbricas y Móviles,3,3,
+Minería de Datos,3,3,
+Estándares y Protocolos de Enrutamiento. Ruteo,3,3,Redes de ComputadorasLaboratorio de Redes de ComputadorasFundamentos de Networking
+Diseño de Soluciones Computacionales,3,3,
+Nanotecnología,3,3,
+Biotecnología,3,3,
+Desarrollo Web: Front-End,3,3,Desarrollo Web: Back-End
+Seguridad en Desarrollo de Software,3,3,
+Introducción al Aprendizaje Automático,3,3,Inteligencia Artificial
+,,,
+Sistemas Embebidos Avanzados,3,3,Sistemas Embebidos
+Ingeniería de Software,3,3,Análisis de Sistemas
+Técnicas para Presentaciones Ejecutivas,3,3,
+Estándares y Protocolos de Conmutación. Switcheo,3,3,Estándares y Protocolos de Conmutación. Switcheo
+Estimación de Proyectos de Software,3,3,
+Proyectos de Software Enfocados a Nanotecnología,3,3,
+Introducción al Aprendizaje Profundo,3,3,Inteligencia ArtificialIntroducción al Aprendizaje Automático
+Seguridad Avanzada en Tecnologías de Información,3,3,
+,,,
+Nuevas Tecnologías,3,3,
+Seminario de Análisis Empresarial,3,3,
+Interconectividad Segura de Redes Corporativas,3,3,Estándares y Protocolos de Conmutación. Switcheo
+Modelos de Negocio,3,3,
